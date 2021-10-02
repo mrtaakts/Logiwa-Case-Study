@@ -47,11 +47,11 @@ The created web API project CRUD operations for Category and Product Entities.
 **[HttpDelete]**
   > This HttpDelete deletes the product by product's ID.
   
-- /api/Category/{id}
+- /api/Product/{id}
 **[HttpGet]**
   > This HttpGet action gets the product by product's ID.
 
-- /api/Category/FilterProduct
+- /api/Product/FilterProduct
 **[HttpGet]**
   > This HttpGet action gets list of products by criterias
 ### Example For FilterProduct
